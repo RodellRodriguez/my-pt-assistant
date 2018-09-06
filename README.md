@@ -13,11 +13,11 @@ Tech Stack:
 
 ## Features:
 
-- [] Users can add/remove/edit an exercise
-- [] Users can add/remove/edit number of sets/reps for each exercise
-- [] Users can embed a Youtube video for demonstration of any particular exercise
-- [] Users can add comments how they felt after each exercise
-- [] Users can mark exercise as completed/uncompleted
+- [ ] Users can add/remove/edit an exercise
+- [ ] Users can add/remove/edit number of sets/reps for each exercise
+- [ ] Users can embed a Youtube video for demonstration of any particular exercise
+- [ ] Users can add comments how they felt after each exercise
+- [ ] Users can mark exercise as completed/uncompleted
 
 
 
